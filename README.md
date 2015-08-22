@@ -27,6 +27,15 @@ UDN开源翻译小组由一群开源爱好者组成.
     translated 已经翻译完成待校对的文章
     text-proofing 校对完成,待发布的文章
     published 发布的文章
+    
+    
+
+# 文章关键字
+redis
+linux
+kafka
+hadoop
+llvm
 
 # 翻译要求
     不必全篇逐词逐句翻译，做下简单编译即可，也可以加上自己的观点、想法。
