@@ -56,7 +56,7 @@ As you see, ModX configuration for Nginx is pretty simple. It does not require a
 
 # Try It Yourself
 
-If you want to give it a try, go to the ModX website.
+If you want to give it a try, go to the [ModX website](http://modx.com/).
 
 If you have questions or doubts about this great CMS, ask their community. They will be glad to help you with any troubles and questions you may have.
 
