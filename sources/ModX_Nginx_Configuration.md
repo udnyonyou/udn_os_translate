@@ -14,8 +14,9 @@ Today, you will learn how to configure ModX on your existing Nginx web server.
 
 View this example config for a ModX installation on an Nginx server (php-fpm is required for Nginx servers):
 
-  server {
-      listen 80;
+
+    server {
+    listen 80;
     server_name nginxtips.com;
     root /var/www/nginxtips.com;
     index index.php index.html;
@@ -43,7 +44,8 @@ View this example config for a ModX installation on an Nginx server (php-fpm is 
             fastcgi_temp_file_write_size 256k;
         }
 
-}
+    }
+
 
 
 Remember to change ‘nginxtips.com’ and the path of your domain to match your real domain details.
