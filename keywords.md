@@ -5,6 +5,12 @@
 * linux
 
 * kernel
+* hadoop
+* html5
+* jquery
+* spark
+* salt
+* 
 
 * llvm
 
