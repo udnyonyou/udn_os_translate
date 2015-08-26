@@ -2,7 +2,7 @@
 文章关键字列表:
 
 
-* linux
+* unix/linux
 
 * kernel
 * hadoop
